@@ -1,4 +1,4 @@
-# Bike-Sales-Visualizations-Lab
+# Excel Bike-Sales-Visualizations-Lab
  Overview
 This repository contains the results and source data from an Excel lab focused on sales data analysis and professional visualization. The project analyzes historical bike sales figures to uncover trends in revenue, profit, product performance, and customer demographics (specifically age groups and countries).
 
